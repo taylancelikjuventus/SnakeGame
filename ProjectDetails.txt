@@ -1,0 +1,1 @@
+Project is tested on Windows 10 operating system.
